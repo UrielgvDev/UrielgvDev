@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Uriel Israel Guerra Vaca</h1>
 <h3 align="center">Frontend Developer</h3>
+- 👉 Sobre mi **Frontend Developer | Estudiante | Comprometido con la creación de experiencias digitales**
 
 - 💬 Pregúntame acerca de **HTML, CSS, JavaScript, ReactJs, VueJS, Node.JS, Angular, tailwind, MySQL, MongoDB**
 
