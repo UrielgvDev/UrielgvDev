@@ -9,7 +9,7 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uriel israel guerra vaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uriel israel guerra vaca" height="30" width="40" /></a>
-<a href="https://fb.com/uriel guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel guerra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/uriel.guerra.1694/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uriel guerra" height="30" width="40" /></a>
 <a href="https://instagram.com/urielguerra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urielguerra_" height="30" width="40" /></a>
 </p>
 
