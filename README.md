@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 
-- 💬 Pregúntame acerca de **HTML, CSS, JavaScript, ReactJs, VueJS, Node.JS, Angular, tailwind, MySQL, MongoDB**
+- 💬 Pregúntame acerca de **HTML, CSS, JavaScript, ReactJs y Bases de datos
 
 - 📫 Escríbeme a **urielguerra.vaca@gmail.com**
 
